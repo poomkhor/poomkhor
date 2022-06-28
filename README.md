@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Poom here 👋
 
-Here are some ideas to get you started:
+I'm currently a project manager by day, data scientist aspirer by night looking to expand my skill realm to include web development:
 
 - 🔭 I’m currently working on Master of Applied Data Science, University of Michigan.
 - 🌱 I’m currently learning Deep Learning
